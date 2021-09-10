@@ -1,0 +1,9 @@
+C:\Users\Raul Martinez\source\repos\GeneralShipment\bin\Release\GeneralShipment.dacpac
+C:\Users\Raul Martinez\source\repos\GeneralShipment\bin\Release\GeneralShipment.dll
+C:\Users\Raul Martinez\source\repos\GeneralShipment\bin\Release\GeneralShipment.pdb
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\GeneralShipment.dll
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\GeneralShipment.pdb
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\Model.xml
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\refactor.xml
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\postdeploy.sql
+C:\Users\Raul Martinez\source\repos\GeneralShipment\obj\Release\predeploy.sql
